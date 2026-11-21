@@ -9,10 +9,8 @@
 **Campus:** IFSP Cubatão
 
 ## Como abrir
-1. Extraia o ZIP.
-2. Abra a pasta `site_portugues` no VS Code.
-3. Para visualizar, dê dois cliques em `index.html` e abra no navegador.
-4. Navegue pelo menu para acessar cada página. O projeto usa HTML, CSS e JavaScript puro.
+1. Extraia a pasta ponto_de_vista.
+3. Abra o arquivo index.html em um navegador.
 
 ## Identidade visual e tipografia
 A identidade visual usa uma paleta editorial inspirada em papel, tinta, vinho, ameixa e detalhes dourados. A página inicial tem uma composição de cores em gradiente quente; o tema claro e o tema escuro podem ser alternados no botão do cabeçalho. Cards e links têm efeitos hover.
